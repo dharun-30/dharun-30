@@ -47,3 +47,14 @@
 <p align="center">
   <img src="https://ghchart.rshah.org/33FF33/dharun-30" alt="dharun-30's Github Chart" width="100%" />
 </p>
+
+<br><br>
+
+<!-- 🏁 SYSTEM SHUTDOWN / THANK YOU -->
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1500&color=00FFFF&center=true&vCenter=true&width=800&lines=Thank+you+for+visiting+my+profile!;Connection+closed.+Goodbye!" alt="Thank You Animated Text" />
+  </a>
+  <br><br>
+  <img src="https://github.com/user-attachments/assets/ba5f362e-1b3f-4be0-a926-fd2f03b10d32" width="180" alt="Fire GIF" />
+</p>
