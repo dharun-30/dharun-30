@@ -8,6 +8,14 @@
 <!-- Profile Banner Image -->
 <img width="1280" height="620" alt="4" src="https://github.com/user-attachments/assets/d6e1e888-4a56-4043-9c55-ac5af9e8968b" />
 
+<!-- Terminal Bio (Left Aligned) -->
+<p align="left">
+  <code>$ whoami --name</code><br>
+  <code>> tobii</code><br>
+  <code>$ cat interests.txt</code><br>
+  <code>> Exploring Full-Stack Web Dev, C++, and Cybersecurity Labs.</code>
+</p>
+
 <!-- Analytics Section -->
 <p align="center">
   <!-- Left: Animated Pikachu -->
@@ -19,8 +27,7 @@
   <!-- Right: GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharun-30&theme=nord&hide_border=true&background=0d111700&title_color=D8DEE9&text_color=E5E9F0" width="38%" alt="GitHub Streak" />
 </p>
-
-<!-- Tech Stack Icons -->
+<!-- Reliable Contribution Blocks (Fallback) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,c,cpp,java,mysql,linux,bash,docker,vscode,py" alt="Tech Stack Icons" />
+  <img src="https://ghchart.rshah.org/81A1C1/dharun-30" alt="dharun-30's Github Chart" width="100%" />
 </p>
