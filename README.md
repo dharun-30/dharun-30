@@ -36,7 +36,7 @@
 
 <!-- 🛠️ TECH STACK -->
 <h3 align="left">⚙️ Load Modules</h3>
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,py,java,mysql,docker,github,vscode" alt="Tech Stack Icons" />
 </p>
 
