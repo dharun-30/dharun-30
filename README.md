@@ -5,29 +5,17 @@
   </a>
 </p>
 
-<!-- Top Banner: Pixel Art Cityscape -->
-<p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/cfd81c18-16e4-43b8-90ab-e94fc1e5faeb" alt="Pixel Art Banner" />
-</p>
+<!-- Profile Banner Image -->
+<img width="1280" height="620" alt="4" src="https://github.com/user-attachments/assets/d6e1e888-4a56-4043-9c55-ac5af9e8968b" />
 
-### 📊 `Live System Analytics`
-
+<!-- Analytics Section -->
 <p align="center">
-  <!-- Chart 1: Live Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharun-30&layout=donut&theme=nord&hide_border=true&bg_color=0d111700&title_color=D8DEE9&text_color=E5E9F0" width="49%" alt="Top Languages Live" />
+  <!-- Left: Animated Pikachu -->
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="10%" alt="Pikachu" />
+
+  <!-- Center: Auto-Detect Top Languages (Skills Stats) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharun-30&layout=pie&theme=nord&hide_border=true&bg_color=0d111700&title_color=D8DEE9&text_color=E5E9F0" width="38%" alt="Top Languages Pie Chart" />
   
-  <!-- Chart 2: Live GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dharun-30&theme=nord&hide_border=true&bg_color=0d111700&title_color=D8DEE9&text_color=E5E9F0&show_icons=true" width="49%" alt="Live GitHub Stats" />
+  <!-- Right: GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharun-30&theme=nord&hide_border=true&background=0d111700&title_color=D8DEE9&text_color=E5E9F0" width="38%" alt="GitHub Streak" />
 </p>
-
-### 🛠️ `Languages & Tools`
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,github,linux&theme=dark" alt="My Skills" />
-  </a>
-</p>
-
-<!-- Thank You Message -->
-<br>
-<h2 align="center">👋 Thank you for visiting my profile!</h2>
