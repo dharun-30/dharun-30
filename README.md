@@ -19,3 +19,8 @@
   <!-- Right: GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharun-30&theme=nord&hide_border=true&background=0d111700&title_color=D8DEE9&text_color=E5E9F0" width="38%" alt="GitHub Streak" />
 </p>
+
+<!-- Tech Stack Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,c,cpp,java,mysql,linux,bash,docker,vscode,py" alt="Tech Stack Icons" />
+</p>
